@@ -1,8 +1,25 @@
-"name": "old king sithu whatsapp bot", "version": "1.0.0", "description": "A WhatsApp bot old king sithu.js", "main": "index.js", "scripts": { "start": ".menu.js --deep-monitoring --attach --name .menu", "stop": "pm2 stop wabot", "restart": "pm2 restart .menu" }, "dependencies": { "@whiskeysockets/baileys": "6.6.0", "@adiwajshing/keyed-db": "^0.2.4", "pino": "^7.
-
-
-
-
-
-
-
+{
+"neme"."OLD KING WHATSAPP BOT",
+"version"."1.0.0",
+"description".A OLD KING SITHU BOT.JS",
+"main","index.js",
+"scripts",{
+"start","pm2startindex.js--deep-monitoring--attach--neme whatsapp bot",
+"stop","pm2 stop whatsapp bot",
+"restart","pm2 restart whatsapp bot",}
+{
+"dependencies",}
+"@whiskeysockets/baileys","6.6.0",
+"@adiwajshing/keyed-db","^0.2.4",
+"pino","^7.0.5",
+"pm2"."^5.2.0",
+"util"."^0.12.4",
+"express"."latest",
+"axios"."^1.2.5",
+"file_size_url"."^1.0.4",
+"fs-extra"."^11.1.0",
+"path"."^0.12.7",
+"node-fetch"."^2.6.1",
+"megajs"."^1.1.0",
+"vm"."^0.1.0",
+"prcode-terminal"."^0.12.0",
